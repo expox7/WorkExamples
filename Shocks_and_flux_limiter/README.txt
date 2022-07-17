@@ -1,3 +1,5 @@
+Shocks_and_flux_limiter.pdf is a report with all the information about the project and an analysis of the results.
+
 There are four python files: InitialConditions, Limiter, ShockAnimation and MachCalculator.
 
 InitialConditions it's a module with a function that returns the ICs when given the needed parameters.
