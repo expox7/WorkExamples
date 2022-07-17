@@ -1,3 +1,5 @@
+Project_Orbits.pdf has the information about the project.
+
 The folder has two python files; update.py and orbits.py.
 
 update.py is a python module with the acceleration function and two EDO solver 
@@ -13,5 +15,3 @@ taking into consideration the mutual gravitational attraction of the particles.
 The program is connected to the ICs provided in the input folder (disk10.txt, disk100.txt and disk1000.txt)
 and to two other folders; Output, where it puts the snapshots if the user wants any, and AnimationOutput, 
 where it puts the images and animation of the particle movement over time if the user request it.
-
-Project_Orbits.pdf has the information about the project.
