@@ -13,5 +13,6 @@ masses and initial position and velocity in an NFW potential. It can also calcul
 taking into consideration the mutual gravitational attraction of the particles.
 
 The program is connected to the ICs provided in the input folder (disk10.txt, disk100.txt and disk1000.txt)
-and to two other folders; Output, where it puts the snapshots if the user wants any, and AnimationOutput, 
-where it puts the images and animation of the particle movement over time if the user request it.
+and expects to have two other folders in the main directory:
+-Output, where it puts the snapshots if the user wants any.
+-AnimationOutput, where it puts the images and animation of the particle movement over time if the user request it.
