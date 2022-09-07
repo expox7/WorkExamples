@@ -11,3 +11,4 @@ Descomposición fotométrica y análisis cinemático mediante espectroscopía de
 
 Galactica_Potenciales_JulenExposito -> Informe de un trabajo sobre modelos de potenciales galácticos e integración de órbitas.
 
+TFM_JulenExposito -> Trabajo de Fin de Master: Un modelo probabilístico de aprendizaje profundo para distinguir cusps y cores en galaxias enanas.
